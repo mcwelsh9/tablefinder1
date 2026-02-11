@@ -1,6 +1,4 @@
-tablefinder
-[tablefinder](https://bustedacorn-tablefinder.share.connect.posit.cloud)
-📊 tablefinder is an AI-powered app that helps journalists, researchers, and policy thinkers quickly find the right Statistics Canada data tables — just by typing a question or topic up to 140 characters!
+📊 [tablefinder](https://bustedacorn-tablefinder.share.connect.posit.cloud) is an AI-powered app that helps journalists, researchers, and policy thinkers quickly find the right Statistics Canada data tables — just by typing a question or topic up to 140 characters!
 
 💡 Ask something like "housing starts in Toronto in 2023" or "youth unemployment in Quebec," and TableFinder will return the most relevant StatCan tables — no code, no jargon, no hunting through endless dropdowns.
 
